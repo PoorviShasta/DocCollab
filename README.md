@@ -16,7 +16,6 @@ A full-stack collaborative editor built with:
 - Version history with restore
 
 ## Run locally
-
 1. Backend setup:
    - Copy `backend/.env.example` to `backend/.env`
    - Update `MONGO_URI` and `JWT_SECRET`
