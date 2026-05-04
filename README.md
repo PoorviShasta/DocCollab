@@ -1,6 +1,6 @@
 # CollabDocs (Real-time Document Editor)
 
-A full-stack collaborative editor built with:
+A MERN-stack collaborative editor built with:
 
 - Frontend: React (Vite), Tailwind CSS, Axios, React Router DOM, Socket.io-client
 - Backend: Node.js, Express, MongoDB + Mongoose, JWT + bcrypt, Socket.io, dotenv
